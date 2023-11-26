@@ -1,0 +1,28 @@
+{
+ "events":[
+	{
+	  "id":1,
+	  "date":"27/12/2023",
+	  "Nom":"Winter Battle",
+	  "join":false,
+	  "image":"img1",
+          "description":"Experience the adrenaline of precision drifting in a secret snow covered location at our exclusive 'Winter Battle' event. Skilled drivers navigate icy twists, creating a thrilling fusion of controlled chaos and winter wonderland excitement"
+	},
+	{
+	  "id":2,
+	  "date":"12/02/2024",
+	  "Nom":"Legends Trip",
+	  "join":false,
+	  "image":"img2",
+          "description":"Experience the thrill of drifting legends at a secret location. Join our exclusive 'Legends Trip' for a unique journey into the artistry of the perfect drift, blending adrenaline and passion in a clandestine setting"
+	},
+	{
+	  "id":3,
+	  "date":"22/04/2023",
+	  "Nom":"Tripy Drift",
+	  "join":false,
+	  "image":"img3",
+          "description":"Experience the fusion of drifting and rave culture at 'Tripy Drift' in a secret location. Engage in an adrenaline-pumping night of precision drifting, vibrant beats, and hidden thrills"
+	},	
+  ]
+}
