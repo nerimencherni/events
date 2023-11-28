@@ -5,7 +5,7 @@
 	  "date":"27/12/2023",
 	  "Nom":"Winter Battle",
 	  "join":false,
-	  "image":"img1",
+	  "image":"img1.png",
           "description":"Experience the adrenaline of precision drifting in a secret snow covered location at our exclusive 'Winter Battle' event. Skilled drivers navigate icy twists, creating a thrilling fusion of controlled chaos and winter wonderland excitement"
 	},
 	{
@@ -13,7 +13,7 @@
 	  "date":"12/02/2024",
 	  "Nom":"Legends Trip",
 	  "join":false,
-	  "image":"img2",
+	  "image":"img2.jpg",
           "description":"Experience the thrill of drifting legends at a secret location. Join our exclusive 'Legends Trip' for a unique journey into the artistry of the perfect drift, blending adrenaline and passion in a clandestine setting"
 	},
 	{
@@ -21,52 +21,52 @@
 	  "date":"22/04/2023",
 	  "Nom":"Tripy Drift",
 	  "join":false,
-	  "image":"img3",
+	  "image":"img3.jpeg",
           "description":"Experience the fusion of drifting and rave culture at 'Tripy Drift' in a secret location. Engage in an adrenaline-pumping night of precision drifting, vibrant beats, and hidden thrills"
-	},	
+	}
   ],
 "cars":[
 	{
 	  "id":1,
 	  "Nom":"BMW 3 Series",
-	  "image":"img1,img2,img3",
+	  "images":["img1","img2","img3"],
     "video":"vid1",
-    "description":"Pretty much any decade-old BMW 3 Series is a great base for any form of motorsport, from hill climbs like Pikes Peak to drifting, and because it's a relatively common vehicle available in several variations (sedan, coupe, convertible), it's also one of the most accessible cars for performance driving. The BMW M3 E36 is especially lovely, offering you rear-wheel drive, a manual transmission, and a sprightly engine with decent power. But even if you can only find one with an automatic, swapping the transmission is not difficult or expensive. The latest BMW M3 and M4 have loads of power and offer a drift mode that uncouples the front axle (in AWD variants), but those are not cheap cars.Sadly, because these new BMW M3 and M4 variants are so digital, the BMW M3 E36 is becoming more sought-after, driving prices through the roof. The same is true of the E46, but you don't need a BMW M3. Just get a regular 3 Series, swap in an LSD, and start practicing how to light up the rear wheels with the power at your disposal.",
+    "description":"Pretty much any decade-old BMW 3 Series is a great base for any form of motorsport, from hill climbs like Pikes Peak to drifting, and because it's a relatively common vehicle available in several variations (sedan, coupe, convertible), it's also one of the most accessible cars for performance driving. The BMW M3 E36 is especially lovely, offering you rear-wheel drive, a manual transmission, and a sprightly engine with decent power. But even if you can only find one with an automatic, swapping the transmission is not difficult or expensive. The latest BMW M3 and M4 have loads of power and offer a drift mode that uncouples the front axle (in AWD variants), but those are not cheap cars.Sadly, because these new BMW M3 and M4 variants are so digital, the BMW M3 E36 is becoming more sought-after, driving prices through the roof. The same is true of the E46, but you don't need a BMW M3. Just get a regular 3 Series, swap in an LSD, and start practicing how to light up the rear wheels with the power at your disposal."
   },
    {
 	  "id":2,
 	  "Nom":"Ford Mustang",
-	  "image":"img4,img5,img6",
-    "video":"vid2",
-    "description":"The Ford Mustang is a highly popular option for drifting, whether we're talking about a Fox-body Mustang or a new Ford Mustang RTR Formula Drift, as campaigned by the likes of Vaughn Gittin Jr. and Adam LZ. These modified drift cars are ready to rock from the factory and cost a fortune, so a beginner would be better off with an unloved older Mustang off the used market, something that can sustain a little light body damage without breaking your heart or wallet.A Fox-body Ford Mustang with the 5.0 engine also has enough power in stock form, and as your skill level increases, there are countless tuning options and engine swaps, even on a tight budget. Many drifters started with something basic and simply added numerous upgrades as their skill level rose, proving that if you start with the right base vehicle, you could potentially keep competing in a single car for decades.",
+	  "images":["img4","img5","img6"],
+      "video":"vid2",
+      "description":"The Ford Mustang is a highly popular option for drifting, whether we're talking about a Fox-body Mustang or a new Ford Mustang RTR Formula Drift, as campaigned by the likes of Vaughn Gittin Jr. and Adam LZ. These modified drift cars are ready to rock from the factory and cost a fortune, so a beginner would be better off with an unloved older Mustang off the used market, something that can sustain a little light body damage without breaking your heart or wallet.A Fox-body Ford Mustang with the 5.0 engine also has enough power in stock form, and as your skill level increases, there are countless tuning options and engine swaps, even on a tight budget. Many drifters started with something basic and simply added numerous upgrades as their skill level rose, proving that if you start with the right base vehicle, you could potentially keep competing in a single car for decades."
   },
    {
 	  "id":3,
 	  "Nom":"Mazda MX-5 Miata",
-	  "image":"img7,img8,img9",
+	  "images":["img7","img8","img9"],
     "video":"vid3",
-    "description":"Miata Is Always The Answer, and that applies to good drift cars too. The diminutive sports car is light, responsive, well-balanced, and characterful. Whether you're talking about the NA, the ND, the NC, or the current-gen ND, the Mazda MX-5 is a great example of an all-rounder. Circuit, hill climb, autocross, or drift, the Miata can do them all. And like so many other vehicles on our list of drift cars, the MX-5 has several potential engine swaps available for it, including big LS V8s.Best of all, prices are not ridiculous, likely because most Miata owners are true enthusiasts themselves who just want more people to understand that top speed and obscene power are not everything. Miatas are fun things to drive, and if you want to accelerate your understanding of how to control a pair of spinning rear wheels as quickly as possible, we recommend a Mazda MX-5",
+    "description":"Miata Is Always The Answer, and that applies to good drift cars too. The diminutive sports car is light, responsive, well-balanced, and characterful. Whether you're talking about the NA, the ND, the NC, or the current-gen ND, the Mazda MX-5 is a great example of an all-rounder. Circuit, hill climb, autocross, or drift, the Miata can do them all. And like so many other vehicles on our list of drift cars, the MX-5 has several potential engine swaps available for it, including big LS V8s.Best of all, prices are not ridiculous, likely because most Miata owners are true enthusiasts themselves who just want more people to understand that top speed and obscene power are not everything. Miatas are fun things to drive, and if you want to accelerate your understanding of how to control a pair of spinning rear wheels as quickly as possible, we recommend a Mazda MX-5"
   },
    {
 	  "id":4,
 	  "Nom":"Nissan 350Z",
-	  "image":"img10,img11,img12",
+	  "images":["img10","img11","img12"],
     "video":"vid4",
     "description":"Any Nissan Z chassis is great fun to drift, but the new one is expensive and older ones are trickier to repair, so we recommend the Nissan 350Z or 370Z. The car driven by the Drift King in Fast and Furious: Tokyo Drift was a 350Z, and it proved that the vehicular casting of the film franchise is arguably its best aspect. The Nissan 350Z is pretty much a perfect drift car from the factory, especially if it was optioned with the available limited-slip differential. Earlier models came with the 3.5-liter VQ35DE engine, while later variants for the more reliable HR variant of the V6 and as much as 300 hp. Even if the engine does break, this is another car that, like the Ford Mustang, has loads of aftermarket support for anything from a twin-turbo kit to a full engine swap.With 53:47 weight distribution front:rear, the Nissan 350Z was built to handle back-road corners at speed, but it just so happens to be a great setup for sliding sideways too. But engine placement and weight distribution should not play a huge role in your choice because enough practice can make almost any drift car easy enough to handle, you're probably going to strip weight at some point, and as your skills increase, you may even add some mass back as ballast for the perfect weight distribution front-to-back and side-to-side."
   },
    {
 	  "id":5,
 	  "Nom":"Nissan Silvia",
-	  "image":"img13,img14img15",
+	  "images":["img13","img14","img15"],
     "video":"vid5",
     "description":"The Nissan Silvia nameplate refers to an entire small sports car range, but we're going to focus specifically on the later models produced under the S13 and later chassis codes. In America, the S13 was sold as the 240SX, which is memorable for its pop-up headlights, its punchy and reliable four-cylinder engines that can be tuned for big power, and its role in the video game Midnight Club.Unfortunately, this is almost too good a drift car. What do we mean by that? Well, the S13, S14, and S15 were relatively cheap yet immensely capable cars, and once drifters realized how good they were, countless examples were chopped up to make drift cars.As a result, those with untouched, original models tend to want a lot of money for their now-rare stock cars, while those with modified versions know exactly what their cars are capable of and will also generally want a lot more than you might have paid 10 years ago. Still, short of an E46 BMW M3, there are very few cars that you can just get in and drift as easily as a Nissan S chassis."
   },
    {
 	  "id":6,
 	  "Nom":"Toyota Supra",
-	  "image":"img16,img17,img18",
+	  "image":["img16","img17","img18"],
     "video":"vid6",
     "description":"We never said this list was about cheap drift cars.It's about popular drift cars, and the A80 Toyota Supra is surely one of those. Its rear wheels are powered by the legendary 2JZ-GTE engine, which is astonishingly reliable under sustained abuse because the performance ceiling of the stock components is extraordinarily high.Thanks to a wide track, you also have excellent grip, which is something you do actually want. Drifting isn't just about getting the rear end loose - it's about controlling that slide. The more grip you have, the more speed you can carry and the more smoke you can produce. As with the Nissan Silvias, but worse, the used market for the Toyota Supra is pretty eye-watering, and we'd say it's arguably better to buy a new GR Supra than to try to pry an A80 or even A70 from its obsessive owner.Either way, the Supra is another of those few cars that are practically drift-ready from the factory. Can't find one? Try looking for an imported Toyota Chaser, preferably a Tourer V model with its factory-fitted 1JZ-GTE engine. You'll make plenty of power and earn loads of scene points."
-  },
+  }
   ]
 }
